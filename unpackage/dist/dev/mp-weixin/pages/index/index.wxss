@@ -1,0 +1,11 @@
+
+.wxnav{
+	text-align: center;
+	width: 100%;
+	height: 200rpx;
+	line-height: 200rpx;
+	display:-webkit-box;
+	display:-webkit-flex;
+	display:flex ;
+}
+
